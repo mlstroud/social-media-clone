@@ -1,8 +1,15 @@
 import React from "react";
+import Profile from "./Profile";
+import Posts from "./Posts";
+import Contacts from "./Contacts";
 
 function ContentContainer() {
   return (
-    "Test"
+    <React.Fragment>
+      <Profile />
+      <Posts />
+      <Contacts />
+    </React.Fragment>
   );
 }
 
