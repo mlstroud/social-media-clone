@@ -4,9 +4,15 @@ import Post from "./Post";
 function PostList() {
   return (
     <React.Fragment>
-      <Post />
-      <Post />
-      <Post />
+      <div class="row">
+        <Post />
+      </div>
+      <div class="row">
+        <Post />
+      </div>
+      <div class="row">
+        <Post />
+      </div>
     </React.Fragment>
   );
 }

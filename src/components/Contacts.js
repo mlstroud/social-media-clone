@@ -1,8 +1,11 @@
 import React from "react";
+import ContactList from "./ContactList";
 
 function Contacts() {
   return (
-    "Test"
+    <React.Fragment>
+      <ContactList />
+    </React.Fragment>
   );
 }
 

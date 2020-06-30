@@ -5,8 +5,12 @@ import ProfileDescription from "./ProfileDescription";
 function Profile() {
   return (
     <React.Fragment>
-      <ProfileHeader />
-      <ProfileDescription />
+      <div class="row">
+        <ProfileHeader />
+      </div>
+      <div class="row">
+        <ProfileDescription />
+      </div>
     </React.Fragment>
   );
 }

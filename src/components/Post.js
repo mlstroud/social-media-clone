@@ -2,7 +2,7 @@ import React from "react";
 
 function Post() {
   return (
-    "test"
+    "Post 1"
   );
 }
 

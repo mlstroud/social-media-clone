@@ -2,7 +2,7 @@ import React from "react";
 
 function NewPost() {
   return (
-    "Test"
+    <input type="text" class="form-control"></input>
   );
 }
 

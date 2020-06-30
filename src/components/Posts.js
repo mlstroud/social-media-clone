@@ -5,7 +5,9 @@ import PostList from "./PostList";
 function Posts() {
   return (
     <React.Fragment>
-      <NewPost />
+      <div class="row">
+        <NewPost />
+      </div>
       <PostList />
     </React.Fragment>
   );
