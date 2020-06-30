@@ -12,7 +12,6 @@ _This social media clone is an exercise in using React components to copy a give
 ![Component Diagram](https://raw.githubusercontent.com/mlstroud/social-media-clone/master/diagram.png)
 
 ## Setup/Installation Requirements
-> This application requires the .NETCore SDK - [Find your version here](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 
 1. Navigate to the parent directory you would like to store the project's directory in.
 ```
