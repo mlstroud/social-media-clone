@@ -1,5 +1,4 @@
 import React from "react";
-import ProfileDescription from "./ProfileDescription";
 import ProfileHeader from "./ProfileHeader";
 import ProfileDescription from "./ProfileDescription";
 
